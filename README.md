@@ -1,3 +1,5 @@
+> **이 저장소는 옮겨졌습니다.** 보조 프로그램은 이제 [minigu5/hwip-extension](https://github.com/minigu5/hwip-extension/tree/main/companion/windows)에서 관리·배포합니다. 최신 실행 파일: [HwipCompanion.exe](https://github.com/minigu5/hwip-extension/releases/latest/download/HwipCompanion.exe)
+
 # 휩 Windows 보조 프로그램
 
 웹 브라우저가 한글의 네이티브 수식 개체 클립보드 형식을 직접 만들 수 없기 때문에, 설치형 한글 Automation을 이용해 수식 개체를 만들고 클립보드에 복사하는 작은 로컬 프로그램이다.
